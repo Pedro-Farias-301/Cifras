@@ -128,4 +128,4 @@ Exportação para formatos de imagem (ex.: PNG).
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para detalhes.
 Contato
-Para sugestões ou problemas, abra uma issue no repositório ou entre em contato com seu-email@example.com.
+Para sugestões ou problemas, abra uma issue no repositório ou entre em contato com pedrobarbosafarias9696@gmail.com.
